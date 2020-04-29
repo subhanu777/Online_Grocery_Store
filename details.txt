@@ -1,0 +1,4 @@
+*previous html files are cart,category,checkout,contact,index,product
+
+Made By me:home.php(registration page)
+	   login.php(login page)

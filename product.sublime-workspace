@@ -1,0 +1,297 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"r",
+				"red"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"t",
+				"th\tTag"
+			],
+			[
+				"h",
+				"h3\tTag"
+			],
+			[
+				"Fil",
+				"FileNotFoundException"
+			],
+			[
+				"Comp",
+				"ComplexNumber"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"s",
+				"should"
+			],
+			[
+				"get",
+				"getElementById"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"",
+				"Code Folding: Fold Tag Attributes"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/pgm practice/string2.java",
+		"/D/java prog/java class work/MyInt.java",
+		"/D/pgm practice/return_index.java",
+		"/D/pgm practice/pack_array.java",
+		"/D/pgm practice/pallindrome_generator.java",
+		"/D/Android App/Android Training Project Problem Statement.zip",
+		"/D/Kotlin pgms/hello_world.kt",
+		"/D/java prog/java class work/new.py",
+		"/D/java prog/java class work/control statements/prime.java",
+		"/D/java prog/java class work/control statements/ternary.java",
+		"/D/java prog/java class work/control statements/pallindrome.java",
+		"/D/java prog/java class work/ComplexNumber.java",
+		"/C/xampp/htdocs/JNU/PHP/dbdemo/insertselect.php",
+		"/C/xampp/htdocs/JNU/PHP/dbdemo/formsubmit.php",
+		"/D/java prog/java class work/control statements/conversion.java",
+		"/D/java prog/java class work/swap2.java",
+		"/D/java prog/java class work/swap.java",
+		"/D/java prog/java class work/modulo.java",
+		"/D/java prog/java class work/add.java",
+		"/D/java prog/java class work/class1.java",
+		"/D/java prog/ASSIGNMENT 1/ass1_q8.java",
+		"/D/java prog/ASSIGNMENT 1/ass1_q9.java",
+		"/D/java prog/print.java",
+		"/D/java prog/ass1_q6.java",
+		"/D/java prog/ass1_q5.java",
+		"/D/java prog/ass1_q4.java",
+		"/D/java prog/ass1_q3.java",
+		"/D/java prog/ass1_q7.java",
+		"/C/xampp/htdocs/JNU/PHP/dbdemo/run.php",
+		"/C/xampp/htdocs/JNU/PHP/ques/form.html",
+		"/C/xampp/htdocs/JNU/PHP/dbdemo/update3.php",
+		"/C/xampp/htdocs/JNU/PHP/dbdemo/update2.php",
+		"/C/xampp/htdocs/JNU/PHP/dbdemo/update1.php",
+		"/C/xampp/htdocs/JNU/PHP/ques/formmid.php",
+		"/C/xampp/htdocs/JNU/PHP/dbdemo/mainmenu.html",
+		"/C/xampp/htdocs/JNU/PHP/dbdemo/formmid.php",
+		"/C/xampp/htdocs/index.php",
+		"/C/xampp/htdocs/JNU/PHP/dbdemo/page2.php",
+		"/C/xampp/htdocs/JNU/PHP/dbdemo/page1.php",
+		"/C/xampp/htdocs/JNU/PHP/dbdemo/firstdb.php",
+		"/C/xampp/htdocs/JNU/PHP/myname.php",
+		"/C/xampp/htdocs/JNU/PHP/dbdemo/winopen.html",
+		"/C/xampp/htdocs/JNU/PHP/dbdemo/form.html",
+		"/C/xampp/htdocs/JNU/PHP/firstdb.php",
+		"/C/Users/AYUSHI GUPTA/Desktop/html documents/form.html",
+		"/C/xampp/htdocs/JNU/PHP/test.php",
+		"/C/Users/AYUSHI GUPTA/Desktop/html documents/validation.js",
+		"/C/xampp/htdocs/JNU/PHP/dbdemo/inserts.php",
+		"/C/Users/AYUSHI GUPTA/Downloads/Second.html",
+		"/C/Users/AYUSHI GUPTA/Desktop/html documents/form2.html",
+		"/C/Users/AYUSHI GUPTA/Desktop/html documents/validation1.js",
+		"/C/Users/AYUSHI GUPTA/Downloads/ttt/admin/nicEdit.js",
+		"/C/xampp/htdocs/JNUWWW/JS/Session2/sumarray/SumArray.js",
+		"/C/xampp/htdocs/JNUWWW/JS/Session2/searchstring/SearchingStrings.js",
+		"/C/xampp/htdocs/JNUWWW/JS/Session2/dateandtime/DateTime.js",
+		"/C/xampp/htdocs/JNUWWW/JS/Eventhandling/timesinceload/load.js",
+		"/C/xampp/htdocs/JNUWWW/JS/Eventhandling/focusblur/focusblur.js",
+		"/C/Users/AYUSHI GUPTA/Desktop/html documents/css practice/css code/CSS/styles.css",
+		"/C/Users/AYUSHI GUPTA/Desktop/html documents/css practice/css code/index.html",
+		"/C/Users/AYUSHI GUPTA/Downloads/ttt/tour-history.php",
+		"/C/Users/AYUSHI GUPTA/Downloads/ttt/index.php",
+		"/C/Users/AYUSHI GUPTA/Downloads/ttt/profile.php",
+		"/C/Users/AYUSHI GUPTA/Downloads/ttt/enquiry.php",
+		"/C/Users/AYUSHI GUPTA/Downloads/ttt/page.php",
+		"/C/Users/AYUSHI GUPTA/Downloads/Travel/index.php",
+		"/C/wamp64/www/ttt/issuetickets.php",
+		"/C/wamp64/www/ttt/sql file/tms.sql",
+		"/C/wamp64/www/ttt/index.php",
+		"/C/Users/AYUSHI GUPTA/Desktop/HTML DOCS/index.html",
+		"/C/Users/AYUSHI GUPTA/Desktop/HTML DOCS/index.html.txt",
+		"/C/Users/AYUSHI GUPTA/AppData/Roaming/Sublime Text 3/Packages/User/fff.htm",
+		"/C/Users/AYUSHI GUPTA/Documents/pythonworkshop/opencv.py",
+		"/C/Users/AYUSHI GUPTA/Documents/pythonworkshop/tensor2.py",
+		"/C/Users/AYUSHI GUPTA/Documents/pythonworkshop/tensor.py",
+		"/C/Users/AYUSHI GUPTA/Documents/pythonworkshop/dictionary.py",
+		"/C/Users/AYUSHI GUPTA/Documents/pythonworkshop/loop.py",
+		"/C/Users/AYUSHI GUPTA/Documents/pythonworkshop/hello.py"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "product.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
